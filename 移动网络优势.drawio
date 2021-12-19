@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T02:18:01.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="16.0.0" etag="wQ7MDTB9ULB08UjkU6C0" type="github"><diagram id="Xbrr13ljzXp9TSlu8mGl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-19T02:44:56.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="v1BKqKpFZItP1AEf0Wbc" version="16.0.0" type="github">
+  <diagram id="Xbrr13ljzXp9TSlu8mGl" name="第 1 页">
+    <mxGraphModel dx="2070" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-1" value="&lt;span style=&quot;font-size: 20px ; color: rgb(0 , 112 , 192)&quot;&gt;移动边缘计算技&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;curved=1;" edge="1" parent="1" source="5UCY4ZkF8fbwvM2Sklce-2" target="5UCY4ZkF8fbwvM2Sklce-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-2" value="节约通信资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="5UCY4ZkF8fbwvM2Sklce-3" target="5UCY4ZkF8fbwvM2Sklce-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;提升网络服务质量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.433;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="5UCY4ZkF8fbwvM2Sklce-4" target="5UCY4ZkF8fbwvM2Sklce-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-4" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;终端享有边缘服务器的计算能力&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="5UCY4ZkF8fbwvM2Sklce-5" target="5UCY4ZkF8fbwvM2Sklce-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="5UCY4ZkF8fbwvM2Sklce-5" target="5UCY4ZkF8fbwvM2Sklce-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-5" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;终端享有边缘服务器的存储能力&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="5UCY4ZkF8fbwvM2Sklce-6" target="5UCY4ZkF8fbwvM2Sklce-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-6" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;降低终端移动能耗&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="5UCY4ZkF8fbwvM2Sklce-7" target="5UCY4ZkF8fbwvM2Sklce-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UCY4ZkF8fbwvM2Sklce-7" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;易扩展和网络融合&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
